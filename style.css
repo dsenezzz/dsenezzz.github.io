@@ -1,0 +1,76 @@
+body {
+    background: orange;
+    color: rgb(45, 45, 45);
+    padding: 10px;
+    font-family: arial;
+}
+#all-contents {
+  max-width: 800px;
+    margin: auto;
+}
+
+/* navigation menu */
+nav {
+    background: aqua;
+   margin: 0 auto;
+   margin-bottom: 20px;
+    display: flex;
+    padding: 10px;
+    border-radius: 20px;
+    border: 10px solid aqua;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    color: red;
+    flex: 1;
+    margin: 0;
+}
+#nav-ul {
+    list-style-image: none;
+}
+.nav-li {
+    display: inline-block;
+    padding: 0 10px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+
+/* main container area beneath menu */
+main {
+    background: white;
+    display: flex;
+    border-radius: 20px; 
+    border: 10px solid teal;
+}
+.sidebar {
+    margin-right: 25px;
+    padding: 10px;
+}
+.sidebar-img {
+    width: 200px;
+    border-radius: 20px; 
+    border: 10px solid orange;
+}
+.content {
+    flex: 1;
+    padding: 15px;
+}
+
+/* portfolio styles */
+#interests {
+    border: 4px silver ridge;
+    padding: 8px;
+    border-radius: 20px;
+    border: 10px solid black
+    max-width: fit-content
+    text-align: right;
+}
+h2, h3 {
+    margin: 0px;
+}
+.sen{
+    color: gold
+}
