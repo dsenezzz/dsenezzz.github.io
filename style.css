@@ -64,7 +64,7 @@ main {
     border: 4px silver ridge;
     padding: 8px;
     border-radius: 20px;
-    border: 10px solid black;
+    border: 10px solid teal;
     max-width: fit-content;
     text-align: right;
 }
@@ -72,5 +72,5 @@ h2, h3 {
     margin: 0px;
 }
 .sen{
-    color: gold
+    color: black;
 }
