@@ -64,8 +64,8 @@ main {
     border: 4px silver ridge;
     padding: 8px;
     border-radius: 20px;
-    border: 10px solid black
-    max-width: fit-content
+    border: 10px solid black;
+    max-width: fit-content;
     text-align: right;
 }
 h2, h3 {
