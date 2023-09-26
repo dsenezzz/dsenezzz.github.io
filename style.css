@@ -79,7 +79,7 @@ h2, h3 {
 
          /* portfolio styles */
          .content h1 {
-            color: black;
+            color: blue;
         }
 
         #portfolio {
@@ -118,11 +118,11 @@ h2, h3 {
           
                         h1 {
                           font-size: 44px;
+                          color: blue
                         }
           
                         h2 {
                           font-size: 42px;
-                          text: color red;
                         }
           
                         h3 {
