@@ -155,5 +155,7 @@ h2, h3 {
                         .content {
                           align-content: center;
                           justify-content: center;
+                          min-width: 40px;
+                          max-width: 40px;
                         }
                     }
