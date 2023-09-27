@@ -131,6 +131,8 @@ h2, h3 {
                         #all-contents {
                           height: 100ch;
                           margin: none;
+                          min-width: 40px;
+                          max-width: 40px;
                         }
           
                         a {
@@ -155,7 +157,5 @@ h2, h3 {
                         .content {
                           align-content: center;
                           justify-content: center;
-                          min-width: 40px;
-                          max-width: 40px;
                         }
                     }
