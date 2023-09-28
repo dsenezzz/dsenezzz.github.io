@@ -130,8 +130,7 @@ h2, h3 {
           
                         #all-contents {
                           height: 100ch;
-                          margin: none;
-                          max-width: 50px;
+                          margin: auto;
                         }
           
                         a {
@@ -157,4 +156,9 @@ h2, h3 {
                           align-content: center;
                           justify-content: center;
                         }
+                    }
+
+                    body {
+                      margin: auto;
+                      max-width: 50px;
                     }
