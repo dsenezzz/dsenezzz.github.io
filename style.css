@@ -114,6 +114,7 @@ h2, h3 {
                           height: 100ch;
                           zoom: 1.5;
                           display: grid;
+                          margin: auto;
                         }
           
                         h1 {
@@ -138,7 +139,7 @@ h2, h3 {
                         }
           
                         .sidebar {
-                          margin-right: 0px;
+                          margin: auto;
                           justify-content: center;
                           align-items: center;
                         }
@@ -155,6 +156,7 @@ h2, h3 {
                         .content {
                           align-content: center;
                           justify-content: center;
+                          margin: auto;
                         }
                     }
 
