@@ -33,16 +33,16 @@ var runLevels = function (window) {
     obstacleImage.y = -hitZoneSize
    }
 
-   createSawBlade(900, 330)
-   createSawBlade(1100, 330)
-   createSawBlade(1300, 330)
-   createSawBlade(1500, 330)
-   createSawBlade(1700, 330)
-   createSawBlade(1900, 330)
-   createSawBlade(2100, 330)
-   createSawBlade(2300, 330)
-   createSawBlade(2500, 330)
-   createSawBlade(2700, 330)
+   createSawBlade(900, 320)
+   createSawBlade(1100, 320)
+   createSawBlade(1300, 320)
+   createSawBlade(1500, 320)
+   createSawBlade(1700, 320)
+   createSawBlade(1900, 320)
+   createSawBlade(2100, 320)
+   createSawBlade(2300, 320)
+   createSawBlade(2500, 320)
+   createSawBlade(2700, 320)
     
     function startLevel() {
       // TODO 13 goes below here
